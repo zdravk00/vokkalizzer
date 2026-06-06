@@ -1,0 +1,8 @@
+{
+    "tests": [
+      {
+        "name": "basic_test",
+        "input": { "url": "https://google.com" }
+      }
+    ]
+  }

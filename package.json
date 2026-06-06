@@ -1,0 +1,25 @@
+{
+  "name": "vokkalizzer-test",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "runpod-sdk": "^1.1.2"
+  },
+  "description": "",
+  "main": "handler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zdravk00/vokkalizzer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zdravk00/vokkalizzer/issues"
+  },
+  "homepage": "https://github.com/zdravk00/vokkalizzer#readme"
+}
